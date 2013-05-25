@@ -1,4 +1,4 @@
-require 'query_class_def'
+require './query_class_def'
 
 # Represents the definition of a query criteria class
 class QueryResultDef < QueryClassDef
