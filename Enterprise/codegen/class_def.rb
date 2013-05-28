@@ -1,7 +1,7 @@
-require 'element_def'
-require 'field_def'
-require 'field_def_factory'
-require 'type_name_utils'
+require './element_def'
+require './field_def'
+require './field_def_factory'
+require './type_name_utils'
 
 # represents the definition of a logical class (a class as defined by an NHibernate mapping).
 # A number of C# classes that serve different purposes will typically be generated for each logical class

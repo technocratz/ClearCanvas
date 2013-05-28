@@ -1,5 +1,5 @@
-require 'class_def'
-require 'type_name_utils'
+require './class_def'
+require './type_name_utils'
 
 # Represents the definition of an enum class
 class EnumDef < ClassDef

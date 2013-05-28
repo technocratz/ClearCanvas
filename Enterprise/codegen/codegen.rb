@@ -1,5 +1,5 @@
-require 'model'
-require 'template'
+require './model'
+require './template'
 
 # Main class for program execution
 class CodeGen
