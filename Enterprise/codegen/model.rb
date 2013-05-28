@@ -1,9 +1,9 @@
-require 'element_def'
-require 'entity_def'
-require 'enum_def'
-require 'component_def'
-require 'query_def'
-require 'type_name_utils'
+require './element_def'
+require './entity_def'
+require './enum_def'
+require './component_def'
+require './query_def'
+require './type_name_utils'
 
 # Represents a domain model defined by a set of NHibernate XML mappings
 class Model < ElementDef
