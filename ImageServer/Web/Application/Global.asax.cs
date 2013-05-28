@@ -27,6 +27,7 @@ using System.Configuration;
 using ClearCanvas.Common;
 using ClearCanvas.ImageServer.Web.Common.Security;
 using ClearCanvas.ImageServer.Web.Common;
+using System.Web;
 
 namespace ClearCanvas.ImageServer.Web.Application
 {

@@ -1531,6 +1531,7 @@
     <Content Include="App_Themes\Default\images\Buttons\ViewStudyEnabled.png" />
     <Content Include="App_Themes\Default\images\Buttons\ViewStudyHover.png" />
     <Content Include="App_Themes\Default\images\Controls\Dialog\DialogBodyBackgroundTall.png" />
+    <Content Include="App_Themes\Default\images\LoginSplash.png" />
     <Content Include="App_Themes\Default\images\MainContent\SelectedPartitionTabBackground.png" />
     <Content Include="Builds\SplashScreen\ClearCanvasWebViewerLogo.png" />
     <Content Include="Controls\LoginWarningIndicator.ascx" />
@@ -1780,7 +1781,6 @@
     <Content Include="Users.xml" />
     <Content Include="Default.aspx" />
     <Content Include="Images\favicon.ico" />
-    <Content Include="Images\ImageServerLogo.png" />
     <EmbeddedResource Include="Pages\Admin\Alerts\AlertsPanel.js" />
     <Content Include="Pages\Admin\Configure\Devices\ThrottleSettingsTab.ascx" />
     <EmbeddedResource Include="Pages\Admin\Configure\Devices\DevicePanel.js" />
@@ -1936,7 +1936,6 @@
     <Content Include="Scripts\CodeMirror\css\csscolors.css" />
     <Content Include="Scripts\CodeMirror\css\docs.css" />
     <Content Include="Scripts\CodeMirror\css\jscolors.css" />
-    <Content Include="Scripts\CodeMirror\css\people.jpg" />
     <Content Include="Scripts\CodeMirror\css\sparqlcolors.css" />
     <Content Include="Scripts\CodeMirror\css\xmlcolors.css" />
     <Content Include="Scripts\CodeMirror\js\codemirror.js" />

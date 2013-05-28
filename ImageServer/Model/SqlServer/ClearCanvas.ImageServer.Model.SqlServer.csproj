@@ -250,6 +250,9 @@
   <ItemGroup>
     <EmbeddedResource Include="UpgradeScripts\UpgradeFrom_9_0_9561_11723.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\ImageServerCustomizedTables.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
